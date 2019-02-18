@@ -1,0 +1,4 @@
+﻿declare class Matrix {
+
+    constructor();
+}
